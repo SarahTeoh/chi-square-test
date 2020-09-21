@@ -2,23 +2,30 @@
 This is the stimulation and implementation of [Pearson's chi-squared test](https://en.wikipedia.org/wiki/Pearson's_chi-squared_test) in Java
 
 ## Program list
-- CalcKaiSquarePD.java : Calculate theoretical value of chi-squared test
-- FileOutput.java : Output file
-- KaiPDF.java : Calculate chi-squared distribution
-- KeyboardInput.java: Handle input from keyboard
-- chiSquareTestStimulation.java : Stimulation of Pearson's Chi-squared test
-- Ransuu.java : Generate random number
-- Kyuuwake.java : Separate data into groups
-- Probability.java : Calculate upper bound and lower bound probability, two sided probability
-- ChiSquare.java : Calculate chi-squared value
-- Output.java : Output of chi-squared distribution
-- chiSquareTest.java : Implementation of Chi-squared test
-- ReadCSV.java : Load input data
-- CalcMeanSD.java : Calculate mean and std variation
-- CalcZscore.java : Calculate z-score of every groups
+
+
+| Program                         | Description | 
+|:---------------------------------|:----:|
+| [CalcKaiSquarePD.java](./src/CalcKaiSquarePD.java)| Calculate theoretical value of chi-squared test |
+| [FileOutput.java](./src/FileOutput.java)| Output file |
+| [KaiPDF.java](./src/KaiPDF.java)| Calculate chi-squared distribution |
+| [KeyboardInput.java](./src/KeyboardInput.java)| Handle input from keyboard |
+| [chiSquareTestStimulation.java](./src/chiSquareTestStimulation.java)| Stimulation of Pearson's Chi-squared test|
+| [Ransuu.java](./src/Ransuu.java)| Generate random number|
+| [Kyuuwake.java](./src/Kyuuwake.java)| Separate data into groups|
+| [Probability.java](./src/Probability.java)| Calculate upper bound and lower bound probability, two sided probability|
+| [ChiSquare.java](./src/ChiSquare.java)| Calculate chi-squared value|
+| [Output.java](./src/Output.java)| Output of chi-squared distribution|
+| [chiSquareTest.java](./src/chiSquareTest.java)| Implementation of Chi-squared test|
+| [ReadCSV.java](./src/ReadCSV.java)| Load input data|
+| [CalcMeanSD.java](./src/CalcMeanSD.java)| Calculate mean and std variation|
+| [CalcZscore.java](./src/CalcZscore.java)| Calculate z-score of every groups|
 
 ## Data file
-data.csv : Height data of 1000 male
+
+| File                         | Description | 
+|:---------------------------------|:----:|
+| data.csv| Height data of 1000 male|
 
 ## Stimulation of Pearson's Chi-squared test
 Program: chiSquareTestStimulation.java
