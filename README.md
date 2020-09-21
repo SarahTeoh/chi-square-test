@@ -1,8 +1,7 @@
 # Chi-square Test
 This is the stimulation and implementation of [Pearson's chi-squared test](https://en.wikipedia.org/wiki/Pearson's_chi-squared_test) in Java
 
-### Program list
-***
+## Program list
 - CalcKaiSquarePD.java : Calculate theoretical value of chi-squared test
 - FileOutput.java : Output file
 - KaiPDF.java : Calculate chi-squared distribution
@@ -18,12 +17,10 @@ This is the stimulation and implementation of [Pearson's chi-squared test](https
 - CalcMeanSD.java : Calculate mean and std variation
 - CalcZscore.java : Calculate z-score of every groups
 
-### Data file
-***
+## Data file
 data.csv : Height data of 1000 male
 
-### Stimulation of Pearson's Chi-squared test
-***
+## Stimulation of Pearson's Chi-squared test
 Program: chiSquareTestStimulation.java
 
 Compile and Run Method:
@@ -37,8 +34,7 @@ $ java chiSquareTestStimulation -3.0 3.0 1.0 8
 
 Stimulation result will be chiSquareTestStimulation.csv.
 
-### Implementation of Pearson's Chi-squared test
-***
+## Implementation of Pearson's Chi-squared test
 Program: chiSquareTest.java
 
 Compile and Run Method:
