@@ -55,7 +55,7 @@ $ java chiSquareTestStimulation -3.0 3.0 1.0 8
 $ javac chiSquareTest.java
 $ java chiSquareTest [data filename] [significance level]
 ```
-+ (Choose significance level from 0.995, 0.975, 0.05, 0.025, 0.01, 0.005
++ (Choose significance level from 0.995, 0.975, 0.05, 0.025, 0.01, 0.005)
 
 ### Example
 
